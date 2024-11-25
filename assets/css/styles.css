@@ -1,0 +1,15 @@
+body {
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #fff;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.px-2 {
+  padding: 0 20px;
+}
