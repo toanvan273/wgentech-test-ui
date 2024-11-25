@@ -8,8 +8,8 @@ body {
   max-width: 1440px;
 }
 
-.mb-10 {
-  margin-bottom: 10px;
+.mt-bock {
+  margin-top: 80px;
 }
 .mt-10 {
   margin-top: 10px;
@@ -29,13 +29,16 @@ body {
 }
 
 .main-block {
-  width: 800px;
+  width: 790px;
   margin: 0 auto;
 }
 
 .main-block h2 {
   color: #2c2a29;
   text-align: center;
+  margin-bottom: 40px;
+  font-size: 38px;
+  font-weight: 500;
 }
 
 .content-block {
@@ -91,6 +94,9 @@ body {
     width: 100%;
     padding: 0 10px;
     box-sizing: border-box;
+  }
+  .main-block h2 {
+    margin-bottom: 20px;
   }
   .px-2 {
     padding: 0 10px;
